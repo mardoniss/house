@@ -1,0 +1,7 @@
+{
+  "name": "ObraGestor AI",
+  "description": "A smart construction management app featuring punch lists and delivery logistics with AI assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
